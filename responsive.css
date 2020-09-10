@@ -1,0 +1,21 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+    .header-logo{
+      padding-top: 14px;
+    }
+    .judul-tp{
+      width: 50%;
+    }
+    .gmbr{
+      height: 330px;
+      width: 330px;
+    }
+    .item p{
+      padding:10px;
+    }
+}
